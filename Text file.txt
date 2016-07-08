@@ -1,4 +1,7 @@
 First line @author Shikha
+<<<<<<< HEAD
 hello this is rashmitha!!!!
+=======
+>>>>>>> origin/master
 Second line @author Shikha
 
