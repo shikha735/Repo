@@ -3,12 +3,11 @@ First line @author Shika
 second line kshamitha
 
 First line @author Shikha
-<<<<<<< HEAD
+
 
 Second line @author Shikha
 
-=======
->>>>>>> origin/master
+
 hello this is rashmitha!!!!
 
 
